@@ -1,1 +1,1 @@
-{"version":3,"names":["App"],"sourceRoot":"../../src","sources":["index.tsx"],"mappings":"AAAA,OAAOA,GAAG,MAAM,OAAO;AACvB,SAASA,GAAG"}
+{"version":3,"names":["App","DynamicTable"],"sourceRoot":"../../src","sources":["index.js"],"mappings":"AAAA,OAAOA,GAAG,MAAM,OAAO;AACvB,OAAOC,YAAY,MAAM,uBAAuB;AAChD,SAASD,GAAG,EAAEC,YAAY"}

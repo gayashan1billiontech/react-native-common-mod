@@ -1,11 +1,11 @@
 {
   "name": "react-native-common-mod",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "description": "test",
-  "main": "lib/commonjs/index.js",
-  "module": "lib/module/index.js",
-  "types": "lib/typescript/src/index.d.ts",
-  "react-native": "src/index.tsx",
+  "main": "src/index",
+  "module": "src/index",
+  "types": "src/index",
+  "react-native": "src/index",
   "source": "src/index",
   "files": [
     "src",
