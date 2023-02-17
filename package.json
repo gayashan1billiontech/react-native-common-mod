@@ -1,6 +1,6 @@
 {
-  "name": "react-native-common-mod",
-  "version": "0.1.9",
+  "name": "@1billion-tech/react-native-common-modules",
+  "version": "0.1.11",
   "description": "commom componets",
   "main": "dist/index.js",
   "scripts": {
@@ -26,12 +26,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gayashan1billiontech/react-native-common-mod.git"
+    "url": "git+https://github.com/gayashan1billiontech/react-native-common-modules.git"
   },
   "author": "gayashan sameera < gayashan.galagedara@1billiontech.com >",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gayashan1billiontech/react-native-common-mod/issues"
+    "url": "https://github.com/gayashan1billiontech/react-native-common-modules/issues"
   },
-  "homepage": "https://github.com/gayashan1billiontech/react-native-common-mod#readme"
+  "homepage": "https://github.com/gayashan1billiontech/react-native-common-modules#readme"
 }
