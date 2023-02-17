@@ -1,6 +1,6 @@
 {
   "name": "react-native-common-mod",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "commom componets",
   "main": "dist/index.js",
   "scripts": {
