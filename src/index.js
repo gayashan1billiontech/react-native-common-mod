@@ -1,3 +1,3 @@
-import App from './App';
-import DynamicTable from './Tables/DynamicTable';
-export { App, DynamicTable } 
+import DynamicTable from "./DynamicTable/DynamicTable";
+
+export { DynamicTable }
