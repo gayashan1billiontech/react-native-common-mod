@@ -11,10 +11,10 @@ npm install react-native-common-mod
 ## Usage
 
 ```js
-import  App  from 'react-native-common-mod';
+import  { App }  from 'react-native-common-mod';
 
 // ...
-<App name = {"test"}/>
+<App name = "test"/>
 ```
 
 ## Contributing
